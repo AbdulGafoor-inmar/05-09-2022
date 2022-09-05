@@ -1,0 +1,10 @@
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\bin\Debug\Floppy Bird Windows Froms.exe.config
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\bin\Debug\Floppy Bird Windows Froms.exe
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\bin\Debug\Floppy Bird Windows Froms.pdb
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy Bird Windows Froms.csproj.AssemblyReference.cache
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy_Bird_Windows_Froms.Form1.resources
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy_Bird_Windows_Froms.Properties.Resources.resources
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy Bird Windows Froms.csproj.GenerateResource.cache
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy Bird Windows Froms.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy Bird Windows Froms.exe
+C:\Users\agafoor\source\repos\Floppy Bird Windows Froms\Floppy Bird Windows Froms\obj\Debug\Floppy Bird Windows Froms.pdb

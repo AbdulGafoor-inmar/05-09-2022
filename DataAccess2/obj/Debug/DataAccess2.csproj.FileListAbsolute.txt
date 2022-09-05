@@ -1,0 +1,6 @@
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\bin\Debug\DataAccess2.dll
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\bin\Debug\DataAccess2.pdb
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\obj\Debug\DataAccess2.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\obj\Debug\DataAccess2.dll
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\obj\Debug\DataAccess2.pdb
+C:\Users\agafoor\source\repos\TakeInput\DataAccess2\obj\Debug\DataAccess2.csproj.AssemblyReference.cache

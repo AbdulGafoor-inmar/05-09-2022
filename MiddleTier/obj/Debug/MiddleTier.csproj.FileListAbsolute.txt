@@ -1,0 +1,9 @@
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\bin\Debug\MiddleTier.dll
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\bin\Debug\MiddleTier.pdb
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\bin\Debug\DataAccess2.dll
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\bin\Debug\DataAccess2.pdb
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\obj\Debug\MiddleTier.csproj.AssemblyReference.cache
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\obj\Debug\MiddleTier.csproj.CoreCompileInputs.cache
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\obj\Debug\MiddleTier.csproj.CopyComplete
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\obj\Debug\MiddleTier.dll
+C:\Users\agafoor\source\repos\TakeInput\MiddleTier\obj\Debug\MiddleTier.pdb
